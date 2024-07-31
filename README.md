@@ -1,4 +1,5 @@
-針對 JavaScript 網頁前端程式生成的網頁內容(非伺服器渲染網頁) 使用 selenium 這個瀏覽器模擬工具進行爬蟲專案實作
+針對 JavaScript 網頁前端程式生成的網頁內容(非伺服器渲染網頁) 
+使用 selenium 這個瀏覽器模擬工具進行爬蟲專案實作
 
 `Step 1 設定目標`
 我規劃抓取 Youtube 搜尋 "Newjeans MV" 會出現的 MV 標題和觀看人次
